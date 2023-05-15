@@ -1,7 +1,8 @@
-# John Getman 🔬
-Hi, I am a Junior Lua Developer.
+# smokingplaya 🔬
+Hi, I am a Lua Developer.
 I'm glad to see you here.
 
 My skills:
 * Lua
-* Running heroin through a vein. (joke, maybe)
+
+Right now i learning Rust.
