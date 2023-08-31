@@ -1,3 +1,3 @@
-# smokingplaya 👽
+# smokingplaya 🎓
 
-someday I'll write something here....
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
