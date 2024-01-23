@@ -1,5 +1,6 @@
 # smokingplaya 🎓
 
+<a href="https://github.com/smokingplaya/my_vscode_settings/blob/main/1_settings.json">vscode settings</a>
 <img align="left" style="width:60%" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <div style="width:40%">
