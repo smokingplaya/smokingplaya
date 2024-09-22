@@ -1,7 +1,7 @@
 # 🍓 smokingplaya
 > welcome to my github profile!\
 > i'am a 16yo software engineer based in Russia 🇷🇺\
-> currently learning next.js/rust\
+> currently learning next.js/rust
 
 <img align="left" style="width:60%" src="/github-metrics.svg" alt="Metrics" width="400">
 
