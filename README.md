@@ -1,1 +1,1 @@
-![profileimage](assets/hat.png)
+![Banner](assets/banner.png)
